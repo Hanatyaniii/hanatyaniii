@@ -31,7 +31,7 @@ Analisis data pencemaran air sungai di Jawa Barat menggunakan teknik machine lea
 ## 📫 Kontak
 
 - 📧 Email: hnatyani10@gmail.com
-- 🌐 LinkedIn: 
+- 🌐 LinkedIn: www.linkedin.com/in/hanatyani-nur-asmi-a4416b302
 
 ---
 
