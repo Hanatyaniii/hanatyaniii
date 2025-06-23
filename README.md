@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Halo, saya Hanatyani Nur Asmi!
 
-<!--
-**Hanatyaniii/hanatyaniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah lulusan S1 Teknik Informatika dari Universitas Sangga Buana Bandung yang tertarik pada pengembangan perangkat lunak berbasis web dan analisis data. Saya aktif belajar dan mengembangkan solusi teknologi untuk permasalahan nyata.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skill Utama
+
+- **Programming:** Python, HTML, CSS, JavaScript
+- **Framework & Tools:** Flask, MySQL, Pandas, NumPy, Matplotlib
+- **UI/UX Design:** Figma, Canva
+- **Version Control:** Git & GitHub
+
+---
+
+## 🚀 Proyek Pilihan
+
+### 🔍 Prediksi Gaya Belajar Mahasiswa
+Aplikasi berbasis web untuk memprediksi gaya belajar mahasiswa menggunakan metode Naive Bayes.
+- **Tools:** Flask, Python, Pandas, Scikit-learn
+- **Fitur:** Input kuisioner, hasil klasifikasi gaya belajar, dan penyimpanan data responden.
+-
+
+### 🧼 Analisis Pencemaran Air Sungai (Studi Independent IBM)
+Analisis data pencemaran air sungai di Jawa Barat menggunakan teknik machine learning dan visualisasi data.
+- **Tools:** Python, Pandas, Matplotlib, Jupyter Notebook
+- 
+
+---
+
+## 📫 Kontak
+
+- 📧 Email: hnatyani10@gmail.com
+- 🌐 LinkedIn: 
+
+---
+
+Terima kasih telah berkunjung ke profil saya! 🚀
