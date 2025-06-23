@@ -24,6 +24,7 @@ Aplikasi berbasis web untuk memprediksi gaya belajar mahasiswa menggunakan metod
 ### 🧼 Analisis Pencemaran Air Sungai (Studi Independent IBM)
 Analisis data pencemaran air sungai di Jawa Barat menggunakan teknik machine learning dan visualisasi data.
 - **Tools:** Python, Pandas, Matplotlib, Jupyter Notebook
+- https://github.com/Hanatyaniii/Build-Machine-Learning-Models-Automatically
 ---
 
 ## 📫 Kontak
