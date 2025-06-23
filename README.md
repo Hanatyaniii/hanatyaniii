@@ -19,7 +19,7 @@ Saya adalah lulusan S1 Teknik Informatika dari Universitas Sangga Buana Bandung 
 Aplikasi berbasis web untuk memprediksi gaya belajar mahasiswa menggunakan metode Naive Bayes.
 - **Tools:** Flask, Python, Pandas, Scikit-learn
 - **Fitur:** Input kuisioner, hasil klasifikasi gaya belajar, dan penyimpanan data responden.
--
+- https://github.com/Hanatyaniii/gaya-belajar-felder.git
 
 ### 🧼 Analisis Pencemaran Air Sungai (Studi Independent IBM)
 Analisis data pencemaran air sungai di Jawa Barat menggunakan teknik machine learning dan visualisasi data.
